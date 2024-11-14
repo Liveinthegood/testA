@@ -1,0 +1,413 @@
+/* header and nav bar area */
+
+.navbar {
+  padding-bottom: 1.5rem;
+  
+  }
+  
+  .nav-item {
+  padding: 0 10px;
+  
+  
+  }
+  
+  .thankyou {
+    color: red;
+    font-size: 45px;
+  }
+  
+  .nav-link{
+  font-size: 35px;
+  
+  }
+  
+  .navbar-brand {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-left: 12px;
+  color:white;
+  }
+  
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn3 {
+    background: #F63D3D;
+    background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+    background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+    background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+    background-image: -o-linear-gradient(top, #F63D3D, #811616);
+    background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 15px;
+    line-height: 10px;
+    color: yellow;
+    font-family: Road Rage;
+    width: 75%;
+    font-size: 66px;
+    font-weight: 900;
+    padding: 28px;
+    -webkit-box-shadow: 1px 1px 6px 0 #000000;
+    -moz-box-shadow: 1px 1px 6px 0 #000000;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 1px 1px 6px #000000;
+    border: solid #762C2C 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+ 
+ }
+ 
+
+
+.quotebox {
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 45px;
+  text-justify: left;
+  background-color: yellow;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.quoteboxtan {
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  line-height: 55px;
+  text-justify: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+
+}
+
+.box_gofundme {
+
+  background-color: yellow;
+}
+
+.box_gofundmeBooks {
+
+  background-color: yellow;
+  margin-top: 50px;
+}
+
+
+hr {
+
+  border: solid white 16px;
+  border-bottom: none;
+  width: 24%;
+  margin: 100px auto;
+
+
+}
+
+
+.bodytext{
+
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  text-justify: left;
+
+}
+
+.nslogohero{
+
+  height: 50%;
+  width: 50%;
+  float:right;
+} 
+
+
+.heroindex2 { 
+
+  background-color: #074f57;
+  background-image: url("../images/mtn1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+
+  padding-top: 100px;
+  padding-bottom: 200px;
+
+
+}
+
+
+
+.herohead  {
+
+  color: yellow;
+  font-size: 90px;
+  line-height: 93px;
+  font-weight: bold;
+  margin-top: 40px;
+  padding-bottom: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, black is the stroke or outline color */
+
+  -webkit-text-stroke: 3px black;
+
+}
+
+.herosub {
+
+  color: white;
+  font-size: 60px;
+  line-height: 67px;
+  font-weight: bold;
+  padding-bottom: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, black is the stroke or outline color */
+
+  -webkit-text-stroke: 3px black;
+
+}
+
+
+
+
+
+.threewaystolearn2 {
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellow;
+  font-size: 75px;
+  text-align: center;
+
+}
+
+
+
+.threewaysblock { 
+
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  height: 100%;
+  width: 100%;
+
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+
+}
+
+
+
+
+
+
+    /* FOOTER AREA */
+  
+    .footer {
+      background-color: black;
+      padding: 50px 0 20px;
+      margin: 10px;
+
+      font-family:Arial, Helvetica, sans-serif;
+      text-align: center ;
+
+      
+      }
+      
+
+      
+      
+      
+.copyrightTEXT {
+      
+  font-size: 33px;
+  color:white;
+      }
+
+
+
+.middle {
+
+background-color: white;
+color:white;
+height: 100%;
+width: 100%;
+      
+            
+
+      }
+
+
+.snapshotpics1 {
+
+
+float: left;
+display: block;
+padding-left: 30px;
+padding-right: 20px;
+padding-top: 20px;
+
+
+}
+
+.snapshotpics2 {
+
+
+}
+
+
+.buttonbaby {
+
+  padding-left: 20px; 
+  font-size: 65px; 
+  background-color: yellow; 
+  color: black; 
+  border-radius: 5px; 
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+    
+      .picture {
+        height: 75%;
+        width: 75%;
+        padding-left: 30px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      
+
+      .picture2 {
+        height: 50%;
+        width: 50%;
+        position:relative;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top:20px;
+        padding-bottom: 60px;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      .pro {
+        color: red;
+        
+      }
+
+      .pro2 {
+        color: blue;
+      }
+
+
+
+
+
+  /* NAV BAR AREA */
+  
+  
+
+
+
+.header {
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 64px;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+
+  background-color: YELLOW;
+  color: black;
+  border: 3px solid black;
+
+}
+
+
+.header2 {
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 64px;
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  padding-left: 20px;
+
+  background-color: tan;
+
+}
+
+
+
+
+
+/* for tablet view below *//* for tablet view below *//* for tablet view below */
+@media only screen and (min-width:768px) {
+
+    .box {
+
+    }
+    
+
+
+   }
+
+
+
+
+
+
+/* for desktop view below */ /* for desktop view below *//* for desktop view below */
+@media only screen and (min-width:1000px) {   
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
